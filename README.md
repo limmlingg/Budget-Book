@@ -26,6 +26,11 @@ Must-Haves:
 * Backup to Google Drive
 
 Nice-to-Haves:
+* CRUD categories
+  * Icon from provided list or gallery image
+    * Notify if icon from provided list is being used as the icon for another category.
+  * Name of category (must be unique)
+  * Able to have sub-categories (e.g. food -> snacks)
 * Different types of currency
   * Will be an app-wide change. All past entries will be updated with the new currency symbol.
   * User can provide an exchange rate to update past entries. Default rate is 1 (unchanged).
@@ -58,6 +63,9 @@ Nice-to-Haves:
 ## Aesthetics
 
 Colour scheme: soft pastel colours, generally bright
+
 Graphics: cute
+
 Typeface: rounded sans serif font, not too small
+
 Language: simple, minimal
