@@ -49,6 +49,9 @@ Nice-to-Haves:
 
 - [x] Define requirements
 - [ ] Wireframing
+  - [x] Landing screen
+  - [x] Create/edit entry skin
+  - [ ] Summary screen
 - [ ] Development of core features
   - [ ] CRUD of entries with income/expenditure, date, amount and optional description
   - [ ] Daily/monthly summary
