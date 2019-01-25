@@ -55,13 +55,14 @@ Nice-to-Haves:
   * Only if the app is tailored to become a commercial product.
 * Import some existing ML library to parse photos of receipts and auto-populate spend entries
 
-## Workflow
+## Progress
 
 - [x] Define requirements
-- [ ] Wireframing
+- [x] Wireframing
   - [x] Landing screen
   - [x] Create/edit entry screen
-  - [ ] Summary screen
+  - [x] Summary screen
+  - [x] Settings screen
 - [ ] Development of core features
   - [ ] CRUD of entries with income/expenditure, date, amount, one of the preset categories and optional description
   - [ ] Daily/monthly summary
