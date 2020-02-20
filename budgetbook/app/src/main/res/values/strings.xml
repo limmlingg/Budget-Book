@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">budgetbook</string>
+    <string name="goal_message">Monthly budget</string>
+</resources>
